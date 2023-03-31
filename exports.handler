@@ -1,0 +1,15 @@
+const { builder } = require("@netlify/functions")
+
+const originalResponse = {
+  body: ':thumbsup:',
+  statusCode: 200,
+  ttl: 3600,
+}
+
+async function handler(event, context) {
+  // logic to generate the required content
+
+  return originalResponse
+}
+
+exports.handler = builder(handler);
