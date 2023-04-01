@@ -1,7 +1,1 @@
-import '@styles/globals.css'
-
-function Application({ Component, pageProps }) {
-  return <Component {...pageProps} />
-}
-
-export default Application
+https://netlify-plugin-nextjs-nx-monorepo-demo.netlify.app/#commands
