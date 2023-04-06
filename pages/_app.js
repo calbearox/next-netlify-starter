@@ -1,1 +1,1 @@
-https://netlify-plugin-nextjs-nx-monorepo-demo.netlify.app/#commands
+# https://github.com/calbearox/potential-money/blog/main/src/site/_data/resources
